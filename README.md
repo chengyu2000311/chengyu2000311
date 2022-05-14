@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Haoyu Cheng
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer system
-- 💞️ I’m looking to collaborate on sofware engineering internship summer 2022
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://www.linkedin.com/in/haoyu-cheng/
 
 <!---
